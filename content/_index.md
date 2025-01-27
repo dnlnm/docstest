@@ -1,14 +1,14 @@
 ---
-title: My Site
+title: nximkb
 toc: false
 ---
 
-This is the landing page.
+Documentation for nximkb.
 
 ## Explore
 
 {{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
+  {{< card link="docs/folder" title="NexaPad" icon="book-open" >}}
   {{< card link="about" title="About" icon="user" >}}
 {{< /cards >}}
 
